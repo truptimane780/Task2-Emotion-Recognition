@@ -1,0 +1,6 @@
+venv/
+anaconda_projects/
+*.zip
+RAVDESS/
+__pycache__/
+.ipynb_checkpoints/
